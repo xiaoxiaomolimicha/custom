@@ -3,20 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
-        //自己的域名
-        "allenlikecandy.top",
-        "allenwithmikasa.top",
-        "dianalikecandy.top",
-        "mikasalikeallen.top",
-        "mikasalikecandy.top",
-        "mikasa.one",
-        "molimicha.top",
-        "mollylikecandy.top",
-        "xiaoxiaomolimicha.top",
-        "xiaoxiaomolly.top",
-        "sharonhkinf.cc",
-
-        //国内域名
+        "lesslog.com",
         "hhax.org",
         "digitalchina.com",
         "10086.cn"
